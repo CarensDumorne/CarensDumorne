@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**CarensDumorne/CarensDumorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carens, a freshman computer science student based in the united states. 
 
-Here are some ideas to get you started:
+Love progamming and problem sloving any and all problems in my code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes Python, c, HTML, CLS. My favorite tool i like to use are my laptop, my phonne, and my ipad. 
+
+I'm currently working on a Christ game projct. 
+
+Fun Fact: 
+
+i Play football 
+
+i love chiptole 
+
+i like dogs 
+
+hobbies: gym, anime, coding 
