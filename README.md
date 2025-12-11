@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a freshman Computer Science student based in the United States, currently building my skills in Python, C, HTML, CSS, and exploring the world of AI. I’m passionate about programming, problem-solving, and constantly improving my craft with every project I build.
+I'm Carens, a freshman Computer Science student based in the United States, currently building my skills in Python, C, HTML, CSS, and exploring the world of AI. I’m passionate about programming, problem-solving, and constantly improving my craft with every project I build.
 
 🧠 About Me
 
