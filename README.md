@@ -4,7 +4,7 @@ I'm Carens, a freshman Computer Science student based in the United States, curr
 
 🧠 About Me
 
-💻 Aspiring Software Engineer
+💻 Aspiring Software Engineer and AI progammer 
 
 🧩 Love solving problems—especially debugging and optimizing code
 
