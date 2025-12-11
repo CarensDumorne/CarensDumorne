@@ -1,19 +1,43 @@
 ## Hi there 👋
 
-I'm Carens, a freshman computer science student based in the united states. 
+I'm a freshman Computer Science student based in the United States, currently building my skills in Python, C, HTML, CSS, and exploring the world of AI. I’m passionate about programming, problem-solving, and constantly improving my craft with every project I build.
 
-Love progamming and problem sloving any and all problems in my code. 
+🧠 About Me
 
-My main tech stack includes Python, c, HTML, CLS. My favorite tool i like to use are my laptop, my phonne, and my ipad. 
+💻 Aspiring Software Engineer
 
-I'm currently working on a Christ game projct. 
+🧩 Love solving problems—especially debugging and optimizing code
 
-Fun Fact: 
+🤖 Currently learning AI and foundational computer science concepts
 
-i Play football 
+🎮 Working on a Christmas-themed game project
 
-i love chiptole 
+🔧 Tech Stack & Tools
 
-i like dogs 
+Languages:
 
-hobbies: gym, anime, coding 
+🐍 Python
+
+🔵 C
+
+🌐 HTML
+
+🎨 CSS
+
+Tools I Use:
+
+💻 Laptop
+
+📱 Phone
+
+📱 iPad
+
+🌟 Fun Facts
+
+🏈 I play football
+
+🌯 Chipotle enthusiast
+
+🐶 I really like dogs
+
+🎧 Hobbies: Gym, anime, and coding
